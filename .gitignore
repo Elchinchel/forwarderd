@@ -1,0 +1,34 @@
+.# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*py.class
+
+# Packaging
+*.egg-info/
+/build
+/dist
+
+# Environments
+.env
+.env_test
+.venv
+env/
+venv/
+bin/
+src/
+lib/
+lib64/
+lib64
+share/
+include/
+pyvenv.cfg
+
+# VS Code
+.vscode/
+
+# profiling
+*.prof
+
+upload.bat
+Dockerfile
+tests.Dockerfile
